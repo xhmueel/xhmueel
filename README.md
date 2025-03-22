@@ -3,13 +3,13 @@
 ---
 ### :man_technologist: About Me :
 
-I'm Samuel Braz Pinto, currently I'm doing my Master's Degree in Computer Science and Engineering Student at Instituto Superior Técnico, Lisbon. I am specializing in Videogames, and aim to land a job in the gaming industry as a designer or programmer.
+I'm Samuel Braz Pinto, currently I'm doing my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico, Lisbon. I am specializing in Videogames, and aim to land a job in the gaming industry as a designer or programmer.
 
 - 🎮 I enjoy doing game jams, and games with longer development time. I also like doing small projects to experiment with novel game mechanics, that mostly never see the day light.
 
 - 🎲 I'm contributing to a student-made videogame, Project Star, as Leader Designer and Lead Writer.
 
-- :musical_note: I like music, art and design, and the little details. I love to play games. 
+- :musical_note: I love music, ranging from Pop to Metal and Classical. I also like art, including contemporary, and design. And obviusly, I love to play games. :smiley:
 
 - 🗣️ Always free to talk, if you have any question or you'd like to work with me, feel free to contact me!
   
