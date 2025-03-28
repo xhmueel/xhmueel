@@ -18,7 +18,7 @@ I'm Samuel Braz Pinto, currently I'm doing my Master's Degree in Computer Scienc
 
 ###
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbrazpinto/)
-- 📧 samuelbrazpinto@gmail.com
+- 📧 samuelbrazpinto1@gmail.com
 - 🎮 https://itch.io/
 
 ---
