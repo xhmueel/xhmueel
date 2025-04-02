@@ -17,9 +17,10 @@ I'm Samuel Braz Pinto, currently I'm doing my Master's Degree in Computer Scienc
 ### 🔗 How to Reach Me:
 
 ###
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbrazpinto/)
 - 📧 samuelbrazpinto1@gmail.com
-- 🎮 https://itch.io/
+- [Linkedin](https://www.linkedin.com/in/samuelbrazpinto/)
+- [Itch.io](https://xhmueel.itch.io/)
+- [Portofolio](https://xhmueel.github.io./)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
